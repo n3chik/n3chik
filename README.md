@@ -7,8 +7,10 @@
 
 # 📊 My Stats:
 ![](https://github-stats-extended.vercel.app/api?username=n3chik&show_icons=true&include_all_commits=true&theme=radical)<br/>
-![](https://github-stats-extended.vercel.app/api/top-langs?username=n3chik&langs_count=4&theme=radical)<br/>
-![](https://github-stats-extended.vercel.app/api/pin?username=n3chik&repo=n3chik%2FNeoBrute&theme=radical)
+![](https://github-stats-extended.vercel.app/api/top-langs?username=n3chik&langs_count=4&theme=radical)
+
+# 🤙 Discord:
+[![Discord Presence](https://lanyard.cnrad.dev/api/815653636162977892)](https://discord.com/users/815653636162977892)
 
 ## 🏆 GitHub Trophies
 ![](https://trophygithubreadmelang.cybee.dpdns.org/?username=n3chik&theme=radical&no-frame=false&margin-w=4)
